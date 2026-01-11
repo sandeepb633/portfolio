@@ -18,7 +18,7 @@ const Hero = () => {
             className="flex-1 text-center lg:text-left"
           >
             <div className="inline-block px-3 py-1 mb-4 text-xs font-semibold tracking-wider text-accent dark:text-cyan-400 uppercase bg-blue-50 dark:bg-slate-800 rounded-full border border-blue-100 dark:border-slate-700">
-              Available for Hire
+              OPEN TO WORK
             </div>
             <h1 className="text-5xl lg:text-7xl font-bold text-slate-900 dark:text-white mb-6 leading-tight">
               Sandeep <span className="text-accent dark:text-cyan-400">Bingi</span>
